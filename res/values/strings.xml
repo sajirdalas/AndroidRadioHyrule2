@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">RadioHyrule</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="RadioSource">http://listen.radiohyrule.com:8000/listen</string>
+    <string name="TagURL">http://radiohyrule.com/sites/radiohyrule.com/www/nowplaying.json</string>
+    <string name="Album"><b>Album</b></string>
+    <string name="Artist"><b>Artist</b></string>
+    <string name="Site"><b>http://www.radiohyrule.com</b></string>
+    
+</resources>
